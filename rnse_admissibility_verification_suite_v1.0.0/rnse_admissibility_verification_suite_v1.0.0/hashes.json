@@ -1,0 +1,15 @@
+{
+  "README.md": "7bd001d80b5c5c746a6b3cc5610a3b45b084b58b2c8f3f0e977c7e5a3f967fd4",
+  "METHODS.md": "fce894eb370a5fba092a00dcd54a2d8b834d610e6a45b92b56f56b7388a84568",
+  "REPRODUCIBILITY.md": "8884879dc734104ef5bfee2fcbfa2f034b4297b69b4b647d88b6ca7643596b03",
+  "ADVERSARIAL_SCOPE.md": "705a2e7fbdd2b2e7cdf48bfd4f0790899af2c8f7d86b1a91763b9ede9cd966c4",
+  "VERSION": "86f0555bccd069ac54e4c54a19a0f1aed9d328e13aa34aa090f3f3d43aaad441",
+  "LICENSE.txt": "1a494f27efe5168032b9c0dda0e3db99d0b5b72c088f1d8b866d947ec07f62ce",
+  "CITATION.cff": "acd27817efc70ef66ac1f3bb311c79a8cc06cb2803e29e4f0f96be3338fef35b",
+  "bounds.json": "817069c3ad13f7fc0620e952186f8a6ae317aa2fc892a2a90b087f20bf2464cf",
+  "RNSE_Verification_Suite_v1.0.pdf": "278d1a9fdd71e883c08e3fd5dde0126172c1ec07f26d0f159ded17c6b5cb70d6",
+  "rnse_core.py": "a0a41d5b6c93083c55728f800f4192a575a29b5f8a5549553d5cf91ad3efb77c",
+  "scripts/replay_script.py": "7708b3a69a5641e94929348a0cf9de91659ae624ccd8e02be85ef62a8e71a7bc",
+  "scripts/compute_cvr.py": "dd8aefdcab1b7f90920c3a0d7aa16dcf7b439c827e9c27f42148141cc0ba7825",
+  "scripts/compute_rci.py": "c689eb7ba4f5f1be7cbc673b7451d0b1448084b2032efd3d85040733cb97d004"
+}

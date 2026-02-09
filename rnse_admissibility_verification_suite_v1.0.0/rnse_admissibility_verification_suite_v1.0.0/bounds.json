@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "CVR_bounds": {
+    "T1": 0.02,
+    "T2": 0.05,
+    "T3": 0.0,
+    "T4": 0.3,
+    "T5": 0.5,
+    "T6": 0.0,
+    "T7": 0.0,
+    "T8": 0.15
+  },
+  "notes": {
+    "T3": "Declared bound CVR_T3 = 0 for structured phase window; see PDF for phase definition.",
+    "T6": "CVR_T6 is indicator of missing resonance peaks; see PDF."
+  }
+}

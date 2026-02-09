@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or critique this work, please cite it."
+title: "RNSE Admissibility Verification Suite"
+version: "1.0.0"
+authors:
+  - family-names: "Genish"
+    given-names: "Elad"
+license: "CC-BY-NC-ND-4.0"
+date-released: "2026-02-09"
+repository-code: "https://github.com/<YOUR_GITHUB>/rnse-admissibility-verification-suite"
+identifiers:
+  - type: "doi"
+    value: "<ZENODO_DOI_ON_RELEASE>"

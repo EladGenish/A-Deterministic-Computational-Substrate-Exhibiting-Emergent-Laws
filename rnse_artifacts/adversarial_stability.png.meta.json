@@ -1,0 +1,4 @@
+{
+  "caption": "System Stability vs Adversarial Drift",
+  "description": "Comparison of RNSE and PID stability under lying sensor attack."
+}
